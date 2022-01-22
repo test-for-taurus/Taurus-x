@@ -70,7 +70,7 @@ $ node Taurus.js
 
 ----
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammed-usrbot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=I-AM-MUHAMMED&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
 
 
@@ -86,7 +86,7 @@ $ node Taurus.js
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I-AM-MUHAMMED&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-AM-MUHAMMED&theme=dark" alt="MUHAMMED" /></p>
 </p>
